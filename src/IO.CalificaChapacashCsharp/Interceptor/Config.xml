@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <configuration>
-    <keypairPath>/Users/globatos/Documents/LLAVES_APIGEE/qa/keypair.p12</keypairPath>
-    <keypairPassword>p@stgres</keypairPassword>
-    <certificatePath>/Users/globatos/Documents/LLAVES_APIGEE/qa/cdc_cert.pem</certificatePath>
+    <keypairPath>/your_path/keypair.p12</keypairPath>
+    <keypairPassword>your_password</keypairPassword>
+    <certificatePath>/your_path/cdc_cert.pem</certificatePath>
 </configuration>
